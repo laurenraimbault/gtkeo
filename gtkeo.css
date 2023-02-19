@@ -1,0 +1,18 @@
+.header {
+	background-image: url("diamonds.jpg");
+	text-align: center;
+	padding: 12px;}
+h1	{text-align:center;
+	font-family:verdana, sans-serif}
+h2	{text-align:center; 
+	font-family:verdana, sans-serif}
+p	{font-family:georgia, serif}
+img	{display: block;
+	margin-left: auto;
+	margin-right: auto;}
+ul	{list-style-type:square;
+	font-family:georgia, serif}
+.footer {
+  	background-image: url("diamonds.jpg");
+ 	text-align: center;
+ 	padding: 12px;}
